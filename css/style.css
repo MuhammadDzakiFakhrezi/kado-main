@@ -13,11 +13,11 @@ body{
     background-color: black;
 }
 .greetings{
-    font-size: 13rem;
+    font-size: 6rem;
     font-weight: 900;
 }
 .greetings > span{
-    animation: glow 2.5s ease-in-out infinite;
+    animation: glow 12.5s ease-in-out infinite;
 }
 @keyframes glow{
     0%, 100%{
