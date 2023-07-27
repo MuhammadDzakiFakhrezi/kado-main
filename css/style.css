@@ -65,6 +65,18 @@ body{
 .greetings > span:nth-child(13){
     animation-delay: .34s;
 }
+.greetings > span:nth-child(14){
+    animation-delay: .36s;
+}
+.greetings > span:nth-child(15){
+    animation-delay: .38s;
+}
+.greetings > span:nth-child(16){
+    animation-delay: .40s;
+}
+.greetings > span:nth-child(17){
+    animation-delay: .42s;
+}
 
 .description{
     font-size: 1.5rem;
